@@ -1,0 +1,10 @@
+C:\Users\esrag\source\repos\Solution1\AdoNetDemo2\bin\Debug\AdoNetDemo2.exe.config
+C:\Users\esrag\source\repos\Solution1\AdoNetDemo2\bin\Debug\AdoNetDemo2.exe
+C:\Users\esrag\source\repos\Solution1\AdoNetDemo2\bin\Debug\AdoNetDemo2.pdb
+C:\Users\esrag\source\repos\Solution1\AdoNetDemo2\obj\Debug\AdoNetDemo2.csprojAssemblyReference.cache
+C:\Users\esrag\source\repos\Solution1\AdoNetDemo2\obj\Debug\AdoNetDemo2.Properties.Resources.resources
+C:\Users\esrag\source\repos\Solution1\AdoNetDemo2\obj\Debug\AdoNetDemo2.csproj.GenerateResource.cache
+C:\Users\esrag\source\repos\Solution1\AdoNetDemo2\obj\Debug\AdoNetDemo2.csproj.CoreCompileInputs.cache
+C:\Users\esrag\source\repos\Solution1\AdoNetDemo2\obj\Debug\AdoNetDemo2.exe
+C:\Users\esrag\source\repos\Solution1\AdoNetDemo2\obj\Debug\AdoNetDemo2.pdb
+C:\Users\esrag\source\repos\Solution1\AdoNetDemo2\obj\Debug\AdoNetDemo2.dgwProducts.resources

@@ -1,0 +1,7 @@
+C:\Users\esrag\source\repos\Solution1\constructors\bin\Debug\constructors.exe.config
+C:\Users\esrag\source\repos\Solution1\constructors\bin\Debug\constructors.exe
+C:\Users\esrag\source\repos\Solution1\constructors\bin\Debug\constructors.pdb
+C:\Users\esrag\source\repos\Solution1\constructors\obj\Debug\constructors.csproj.CoreCompileInputs.cache
+C:\Users\esrag\source\repos\Solution1\constructors\obj\Debug\constructors.exe
+C:\Users\esrag\source\repos\Solution1\constructors\obj\Debug\constructors.pdb
+C:\Users\esrag\source\repos\Solution1\constructors\obj\Debug\constructors.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\esrag\source\repos\Solution1\AbstractClasses\obj\Debug\AbstractClasses.csprojAssemblyReference.cache
+C:\Users\esrag\source\repos\Solution1\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\esrag\source\repos\Solution1\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\esrag\source\repos\Solution1\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\esrag\source\repos\Solution1\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\esrag\source\repos\Solution1\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\esrag\source\repos\Solution1\AbstractClasses\obj\Debug\AbstractClasses.pdb

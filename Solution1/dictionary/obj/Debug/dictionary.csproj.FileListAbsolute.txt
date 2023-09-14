@@ -1,0 +1,6 @@
+C:\Users\esrag\source\repos\Solution1\dictionary\bin\Debug\dictionary.exe.config
+C:\Users\esrag\source\repos\Solution1\dictionary\bin\Debug\dictionary.exe
+C:\Users\esrag\source\repos\Solution1\dictionary\bin\Debug\dictionary.pdb
+C:\Users\esrag\source\repos\Solution1\dictionary\obj\Debug\dictionary.csproj.CoreCompileInputs.cache
+C:\Users\esrag\source\repos\Solution1\dictionary\obj\Debug\dictionary.exe
+C:\Users\esrag\source\repos\Solution1\dictionary\obj\Debug\dictionary.pdb

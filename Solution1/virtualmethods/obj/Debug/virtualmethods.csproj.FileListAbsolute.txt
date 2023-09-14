@@ -1,0 +1,6 @@
+C:\Users\esrag\source\repos\Solution1\virtualmethods\obj\Debug\virtualmethods.csproj.CoreCompileInputs.cache
+C:\Users\esrag\source\repos\Solution1\virtualmethods\bin\Debug\virtualmethods.exe.config
+C:\Users\esrag\source\repos\Solution1\virtualmethods\bin\Debug\virtualmethods.exe
+C:\Users\esrag\source\repos\Solution1\virtualmethods\bin\Debug\virtualmethods.pdb
+C:\Users\esrag\source\repos\Solution1\virtualmethods\obj\Debug\virtualmethods.exe
+C:\Users\esrag\source\repos\Solution1\virtualmethods\obj\Debug\virtualmethods.pdb

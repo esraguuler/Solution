@@ -1,0 +1,7 @@
+C:\Users\esrag\source\repos\Solution1\interfaces2\bin\Debug\interfaces2.exe.config
+C:\Users\esrag\source\repos\Solution1\interfaces2\bin\Debug\interfaces2.exe
+C:\Users\esrag\source\repos\Solution1\interfaces2\bin\Debug\interfaces2.pdb
+C:\Users\esrag\source\repos\Solution1\interfaces2\obj\Debug\interfaces2.csproj.CoreCompileInputs.cache
+C:\Users\esrag\source\repos\Solution1\interfaces2\obj\Debug\interfaces2.exe
+C:\Users\esrag\source\repos\Solution1\interfaces2\obj\Debug\interfaces2.pdb
+C:\Users\esrag\source\repos\Solution1\interfaces2\obj\Debug\interfaces2.csprojAssemblyReference.cache

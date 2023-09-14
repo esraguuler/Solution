@@ -1,0 +1,7 @@
+C:\Users\esrag\source\repos\Solution1\classes\bin\Debug\classes.exe.config
+C:\Users\esrag\source\repos\Solution1\classes\bin\Debug\classes.exe
+C:\Users\esrag\source\repos\Solution1\classes\bin\Debug\classes.pdb
+C:\Users\esrag\source\repos\Solution1\classes\obj\Debug\classes.csprojAssemblyReference.cache
+C:\Users\esrag\source\repos\Solution1\classes\obj\Debug\classes.csproj.CoreCompileInputs.cache
+C:\Users\esrag\source\repos\Solution1\classes\obj\Debug\classes.exe
+C:\Users\esrag\source\repos\Solution1\classes\obj\Debug\classes.pdb

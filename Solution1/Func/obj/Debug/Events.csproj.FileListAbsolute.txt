@@ -1,0 +1,7 @@
+C:\Users\esrag\source\repos\Solution1\Func\bin\Debug\Func.exe.config
+C:\Users\esrag\source\repos\Solution1\Func\bin\Debug\Func.exe
+C:\Users\esrag\source\repos\Solution1\Func\bin\Debug\Func.pdb
+C:\Users\esrag\source\repos\Solution1\Func\obj\Debug\Events.csprojAssemblyReference.cache
+C:\Users\esrag\source\repos\Solution1\Func\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\esrag\source\repos\Solution1\Func\obj\Debug\Func.exe
+C:\Users\esrag\source\repos\Solution1\Func\obj\Debug\Func.pdb

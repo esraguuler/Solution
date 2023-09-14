@@ -1,0 +1,7 @@
+C:\Users\esrag\source\repos\Solution1\Ref\bin\Debug\Ref.exe.config
+C:\Users\esrag\source\repos\Solution1\Ref\bin\Debug\Ref.exe
+C:\Users\esrag\source\repos\Solution1\Ref\bin\Debug\Ref.pdb
+C:\Users\esrag\source\repos\Solution1\Ref\obj\Debug\Ref.csprojAssemblyReference.cache
+C:\Users\esrag\source\repos\Solution1\Ref\obj\Debug\Ref.csproj.CoreCompileInputs.cache
+C:\Users\esrag\source\repos\Solution1\Ref\obj\Debug\Ref.exe
+C:\Users\esrag\source\repos\Solution1\Ref\obj\Debug\Ref.pdb

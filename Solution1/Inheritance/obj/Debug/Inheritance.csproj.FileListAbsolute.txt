@@ -1,0 +1,7 @@
+C:\Users\esrag\source\repos\Solution1\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\esrag\source\repos\Solution1\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\esrag\source\repos\Solution1\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\esrag\source\repos\Solution1\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Users\esrag\source\repos\Solution1\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\esrag\source\repos\Solution1\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\esrag\source\repos\Solution1\Inheritance\obj\Debug\Inheritance.pdb

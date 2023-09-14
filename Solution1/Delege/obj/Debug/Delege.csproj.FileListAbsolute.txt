@@ -1,0 +1,7 @@
+C:\Users\esrag\source\repos\Solution1\Delege\bin\Debug\Delege.exe.config
+C:\Users\esrag\source\repos\Solution1\Delege\bin\Debug\Delege.exe
+C:\Users\esrag\source\repos\Solution1\Delege\bin\Debug\Delege.pdb
+C:\Users\esrag\source\repos\Solution1\Delege\obj\Debug\Delege.csprojAssemblyReference.cache
+C:\Users\esrag\source\repos\Solution1\Delege\obj\Debug\Delege.csproj.CoreCompileInputs.cache
+C:\Users\esrag\source\repos\Solution1\Delege\obj\Debug\Delege.exe
+C:\Users\esrag\source\repos\Solution1\Delege\obj\Debug\Delege.pdb
